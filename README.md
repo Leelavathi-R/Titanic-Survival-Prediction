@@ -26,7 +26,10 @@ Created two new features to improve the model performance:
 ## Model Building
 * The dataset was split into 80% training and 20% testing sets.
 * A logistic regression model was developed.
-* Achieved an accuracy of 82%.
+
+## Model Evaluation
+* Calculated the confusion matrix, and evaluated precision and recall.
+* The model achieved an accuracy of 82%.
 
 
 
