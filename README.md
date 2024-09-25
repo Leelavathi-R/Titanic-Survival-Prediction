@@ -8,3 +8,19 @@ The Titanic dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/ya
 * python >= 3.0
 * Pandas
 * Sklearn
+
+## Data Cleaning
+Cleaning steps:
+* Handling missing values.
+* Dropping duplicate rows.
+* Duplicate columns check.
+* Data Format check
+* Outlier check
+* Changing Datatype
+
+## Feature Engineering
+Created two new features to improve the model performance:
+* 'AgeGroup'
+* 'FamilySize'
+
+  
