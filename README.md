@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction(Kaggle competition)
+# Titanic-Survival-Prediction
 This project predicts Titanic passenger survival based on features identified in the [Exploratory Data Analysis(EDA)](https://github.com/Leelavathi-R/Titanic-Survival-EDA). The key influencing factors include Age, Sex, Fare, and Pclass.
 
 # Dataset
